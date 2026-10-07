@@ -1,0 +1,10 @@
+|The Hobbit:J:H:Fantasy:1937:102.99|
+|1984:George Orwell:Secker & Warburg:Dystopian:1949:250|
+|The Great Gatsby:F. Scott Fitzgerald:Scribner:Classic:1925:200|
+|Harry Potter:J.K. Rowling:Bloomsbury:Fantasy:1997:300|
+|The Da Vinci Code:Dan Brown:Doubleday:Thriller:2003:180|
+|The Alchemist:Paulo Coelho:HarperOne:Adventure:1988:220|
+|Pride and Prejudice:Jane Austen:T. Egerton:Romance:1813:150|
+|The Lord of the Rings:J.R.R. Tolkien:Allen & Unwin:Fantasy:1954:350|
+|To Kill a Mockingbird:Harper Lee:J.B. Lippincott:Drama:1960:190|
+|The Catcher in the Rye:J.D. Salinger:Little, Brown:Classic:1951:170|
